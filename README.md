@@ -1,2 +1,2 @@
-Where we store usersnaps (see issues)
+Where we store usersnaps and file other user-submitted issues (see issues)
 
